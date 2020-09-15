@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c34075b5-1465-4081-a694-2ee9ef85d246" name="Default Changelist" comment="" />
+    <list default="true" id="c34075b5-1465-4081-a694-2ee9ef85d246" name="Default Changelist" comment="ssssss">
+      <change afterPath="$PROJECT_DIR$/.idea/New folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newderectory/asset/javascript/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newderectory/asset/style/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newderectory/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +48,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,17 +68,56 @@
       <workItem from="1600145867443" duration="3675000" />
       <workItem from="1600149799753" duration="3397000" />
       <workItem from="1600154227392" duration="368000" />
-      <workItem from="1600166602595" duration="803000" />
+      <workItem from="1600166602595" duration="1266000" />
     </task>
+    <task id="LOCAL-00001" summary="ssssss">
+      <created>1600167737350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600167737350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssssss" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="9" key="SettingsEditor" timestamp="1600149609600">
+    <state x="559" y="262" key="Github.ShareDialog" timestamp="1600167590080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600149609600" />
+    <state x="559" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600167590080" />
+    <state x="516" y="69" key="Github.UntrackedFilesDialog" timestamp="1600167612009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="516" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600167612009" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1600168096473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600168096473" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600167998066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600167998066" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600167991799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1600167991799" />
   </component>
 </project>
